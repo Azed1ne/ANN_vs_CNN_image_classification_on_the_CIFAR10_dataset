@@ -1,5 +1,5 @@
 # Image classification on the CIFAR-10 dataset
-In this notebook, which is like an introduction to Deep Learning, I trained an ANN and a couple of CNN models to classify images of the **CIFAR-10**  dataset and compared their results.
+In this notebook, which is like an introduction to Deep Learning using tensorflow.Keras, I trained an ANN and a couple of CNN models to classify images of the **CIFAR-10**  dataset and compared their results.
 
 The best CNN model I got on 10 epochs: 
 
