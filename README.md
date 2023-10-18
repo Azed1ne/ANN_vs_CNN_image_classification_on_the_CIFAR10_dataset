@@ -1,6 +1,11 @@
 # Image classification on the CIFAR-10 dataset
 In this notebook, which is like an introduction to Deep Learning using tensorflow.Keras, I trained an ANN and a couple of CNN models to classify images of the **CIFAR-10**  dataset and compared their results.
 
+## Demo:
+
+![test](https://github.com/Azed1ne/Image-classification-on-the-CIFAR-10-dataset/assets/123888749/13b1031e-8ad7-4f80-9c8f-84595e028b0c)
+
+
 The best CNN model I got on 10 epochs: 
 
 - 83.60 % accuracy on the training set (50k images)
